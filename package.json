@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "npx-abcdz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ricardo Canelas",
+  "license": "MIT",
+  "bin": {
+    "abcdz": "./packages/cli/cli.js"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}

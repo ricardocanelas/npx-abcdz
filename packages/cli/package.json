@@ -1,0 +1,7 @@
+{
+  "name": "@npx-abcdz/cli",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "author": "Ricardo Canelas",
+  "license": "MIT"
+}
