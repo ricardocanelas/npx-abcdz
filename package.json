@@ -5,9 +5,6 @@
   "main": "index.js",
   "author": "Ricardo Canelas",
   "license": "MIT",
-  "bin": {
-    "abcdz": "./packages/cli/cli.js"
-  },
   "workspaces": {
     "packages": [
       "packages/*"
