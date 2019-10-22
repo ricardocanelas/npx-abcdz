@@ -2,6 +2,8 @@
 
 console.log("is it working?")
 
+const fs = require('fs')
+
 const files = [
   { filename: './../../dist/main.js', output: 'main.js' },
 ]
