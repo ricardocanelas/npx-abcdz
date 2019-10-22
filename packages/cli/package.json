@@ -11,5 +11,8 @@
   },
   "bin": {
     "npx-abcdz": "./cli.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0"
   }
 }
