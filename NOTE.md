@@ -1,6 +1,7 @@
 # Links
 
 - https://torquemag.io/2019/02/developer-automation-with-npx-and-commander/
+- https://egghead.io/courses/execute-npm-package-binaries-with-the-npx-package-runner
 
 # How to do
 
