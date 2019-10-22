@@ -14,7 +14,7 @@ const indexjs = path.join(__dirname, 'index.js');
 
 console.log('index.js', indexjs);
 // console.log('main.js', mainjs);
-console.log('ownPath', ownPath);
+// console.log('ownPath', ownPath);
 
 const contentIndex = fs.readFileSync(indexjs)
 console.log(contentIndex.toString());
