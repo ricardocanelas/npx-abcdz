@@ -1,12 +1,9 @@
 {
   "name": "npx-abcdz",
-  "version": "1.1.0",
+  "version": "1.1.3",
   "main": "cli.js",
   "author": "Ricardo Canelas",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ricardocanelas/npx-abcdz.git",
