@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Ricardo Canelas",
   "license": "MIT",
+  "bin": {
+    "npx-abcdz": "./packages/cli/cli.js"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
